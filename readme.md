@@ -16,4 +16,4 @@ New Changes Made in the app.ini
 
 1. Limited the users to create zero repositories
 2. no user except admin user can create and run organizations in the service
-
+3. Limited max_size of a file to be uploaded in a repository to 30 mib
