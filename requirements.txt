@@ -1,2 +1,3 @@
 excel format of student log
-require api calls for including turnitin
+require api calls for including Turnitin
+repository access change to one
